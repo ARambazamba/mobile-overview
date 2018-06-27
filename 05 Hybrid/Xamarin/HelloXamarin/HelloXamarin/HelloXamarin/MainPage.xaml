@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HelloXamarin"
+             x:Class="HelloXamarin.MainPage">
+
+    <ListView x:Name="markerView" ItemTapped="markerTapped" ItemsSource="{Binding .}" HasUnevenRows="True">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout
+                         Padding="10">
+                        <Label
+                            Text="{Binding lable}"
+                            LineBreakMode="NoWrap"
+                            Style="{DynamicResource ListItemTextStyle}"
+                            FontSize="16" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

@@ -1,0 +1,8 @@
+{
+  "name": "smartSammler",
+  "app_id": "e959b74a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

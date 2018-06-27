@@ -1,0 +1,15 @@
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\HelloXamarin.deps.json
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\HelloXamarin.dll
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\HelloXamarin.pdb
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.csproj.CoreCompileInputs.cache
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.AssemblyInfoInputs.cache
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.AssemblyInfo.cs
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.dll
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.pdb
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\Xamarin.iOS.dll
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\Xamarin.iOS.pdb
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\Xamarin.iOS.xml
+C:\mobileOverview\05 Hybrid\Xamarin\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.csproj.CopyComplete
