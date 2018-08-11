@@ -17,7 +17,7 @@ import { Marker } from "../../shared/model";
 export class MarkerDetailsPage {
   marker: Marker;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(public navParams: NavParams) {
     this.marker = navParams.data;
   }
 
