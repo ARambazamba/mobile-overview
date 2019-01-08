@@ -82,3 +82,17 @@ D:\modernWebStack\09 Real Time - PWA\smartSammlerAPI\smartSammlerAPI\obj\Debug\n
 D:\modernWebStack\09 Real Time - PWA\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.RazorTargetAssemblyInfo.cache
 D:\modernWebStack\09 Real Time - PWA\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.dll
 D:\modernWebStack\09 Real Time - PWA\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.pdb
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\bin\Debug\netcoreapp2.1\smartSammlerAPI.deps.json
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\bin\Debug\netcoreapp2.1\smartSammlerAPI.runtimeconfig.json
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\bin\Debug\netcoreapp2.1\smartSammlerAPI.runtimeconfig.dev.json
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\bin\Debug\netcoreapp2.1\smartSammlerAPI.dll
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\bin\Debug\netcoreapp2.1\smartSammlerAPI.pdb
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.csprojAssemblyReference.cache
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.csproj.CoreCompileInputs.cache
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.RazorAssemblyInfo.cache
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.RazorAssemblyInfo.cs
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.AssemblyInfoInputs.cache
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.AssemblyInfo.cs
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.RazorTargetAssemblyInfo.cache
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.dll
+D:\mobileOverview\00 Course-API\smartSammlerAPI\smartSammlerAPI\obj\Debug\netcoreapp2.1\smartSammlerAPI.pdb
